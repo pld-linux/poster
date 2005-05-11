@@ -3,7 +3,7 @@ Summary(pl):	Poster - ma³e narzêdzie do generowania plakatów
 Name:		poster
 Group:		Applications
 Version:	19950907
-Release:	0.1
+Release:	1
 Epoch:		0
 License:	GPL
 Source0:	http://www.geocities.com/SiliconValley/5682/%{name}.zip
