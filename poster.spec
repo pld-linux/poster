@@ -1,5 +1,5 @@
 Summary:	Poster - a small utility to generate posters
-Summary(pl):	Poster - ma砮 narz阣zie do generowania plakat體
+Summary(pl.UTF-8):   Poster - ma艂e narz臋dzie do generowania plakat贸w
 Name:		poster
 Group:		Applications
 Version:	19950907
@@ -16,10 +16,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Poster is a small utility for making a poster - a large printed image
 - from an EPS file or a one-page PS document.
 
-%description -l pl
-Poster jest ma硑m narz阣ziem s硊勘cym do tworzenia plakat體 -
-wielkowymiarowych obraz體 - z plik體 EPS lub jednostronicowych
-dokument體 PS.
+%description -l pl.UTF-8
+Poster jest ma艂ym narz臋dziem s艂u偶膮cym do tworzenia plakat贸w -
+wielkowymiarowych obraz贸w - z plik贸w EPS lub jednostronicowych
+dokument贸w PS.
 
 %prep
 %setup -q -c
