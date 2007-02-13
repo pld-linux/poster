@@ -1,5 +1,5 @@
 Summary:	Poster - a small utility to generate posters
-Summary(pl.UTF-8):   Poster - małe narzędzie do generowania plakatów
+Summary(pl.UTF-8):	Poster - małe narzędzie do generowania plakatów
 Name:		poster
 Group:		Applications
 Version:	19950907
