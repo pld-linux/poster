@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Poster - małe narzędzie do generowania plakatów
 Name:		poster
 Group:		Applications
 Version:	19950907
-Release:	1
+Release:	2
 Epoch:		0
 License:	GPL
 Source0:	http://www.geocities.com/SiliconValley/5682/%{name}.zip
